@@ -1,5 +1,5 @@
 # Genomics of Drug Sensitivity in Cancer
-<img scr="LOGO.png" width="200" height="200">
+<img src="LOGO.png" height="200" >    
 
 ## Introduction
 This project uses the Genomics of Drug Sensitivity in Cancer (GDSC) dataset to explore how different cancers respond to various drugs. We analyze drug effectiveness by comparing metrics like LN IC50, AUC, and z-scores, which help measure drug potency and resistance. Lower LN IC50 values show greater effectiveness, while higher values suggest resistance. By examining these metrics across cancer cell lines, we identify patterns of sensitivity and resistance. The interactive Power BI dashboard presents these insights with clear visuals, aiding personalized treatment decisions.
